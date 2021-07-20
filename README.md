@@ -74,7 +74,7 @@ A tools(python scripts) to generate Gazebo models from 3D models.(Sketchup files
 
 &emsp;&emsp; This project provide a gazebo world. so if you wanna test the code, you need prepare the simulation world.
 
-&emsp;&emsp; Step 1: you need download sketchup software and install it in your Windows PC or Mac OX, Then choose your favourite models and download the sketchup files.
+&emsp;&emsp; Step 1: you need download sketchup software and install it in your Windows PC or Mac OX, Then choose your favourite models and download the sketchup files from this [LINK](https://3dwarehouse.sketchup.com/search/?q=desk&searchTab=model).
 
 <p align="center">
   <a href="">
